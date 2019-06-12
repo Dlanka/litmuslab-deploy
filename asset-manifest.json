@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/litmuslab-deploy/static/css/main.86b46a33.chunk.css",
+    "main.js": "/litmuslab-deploy/static/js/main.bc3a8f84.chunk.js",
+    "main.js.map": "/litmuslab-deploy/static/js/main.bc3a8f84.chunk.js.map",
+    "runtime~main.js": "/litmuslab-deploy/static/js/runtime~main.3f47d730.js",
+    "runtime~main.js.map": "/litmuslab-deploy/static/js/runtime~main.3f47d730.js.map",
+    "static/js/2.6e858921.chunk.js": "/litmuslab-deploy/static/js/2.6e858921.chunk.js",
+    "static/js/2.6e858921.chunk.js.map": "/litmuslab-deploy/static/js/2.6e858921.chunk.js.map",
+    "index.html": "/litmuslab-deploy/index.html",
+    "precache-manifest.794e312cc8d140913a661b0d364f8359.js": "/litmuslab-deploy/precache-manifest.794e312cc8d140913a661b0d364f8359.js",
+    "service-worker.js": "/litmuslab-deploy/service-worker.js",
+    "static/css/main.86b46a33.chunk.css.map": "/litmuslab-deploy/static/css/main.86b46a33.chunk.css.map",
+    "static/media/banner.png": "/litmuslab-deploy/static/media/banner.41e14544.png",
+    "static/media/banner1.png": "/litmuslab-deploy/static/media/banner1.651039bc.png",
+    "static/media/banner2.png": "/litmuslab-deploy/static/media/banner2.76845dde.png",
+    "static/media/banner3.png": "/litmuslab-deploy/static/media/banner3.013aef7f.png"
+  }
+}
